@@ -13,3 +13,4 @@ Create testcase then connet with template & excel
 12. Work Telephone as 7887
 14. Click save as 554455
 15. Table should contain Sathish
+16. close browser
